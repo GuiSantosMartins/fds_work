@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(215, 243, 234);
+}
+
+
+
+.nome{
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0c03b5;
+}
+
+
+
+.bio{
+    font-size: 25px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 80px;
+}
+
+
+
+.titlehobbies{
+    font-style: italic;
+    font-size:40px;
+    color: #393939;
+    margin-top: 100px;
+}
+
+
+
+.list{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 20px;
+    color: #2600ff;
+    margin-left: 250px;
+}
+
+
+
+.hobbie3{
+    border-radius: 30px;
+    width: 600px;
+    margin-left: 250px;
+}
+
+
+
+.paisimg{
+    width: 450px;
+}
+
+
+
+.tabela{
+    width: 900px ;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: rgb(199, 255, 227);
+}
+
+
+
+.pais{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+
+.name{
+    font-size: 35px;
+    font-style: italic; 
+}
+
+
+
+.convite{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #ff6600;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+
+
+.convite1{
+    font-size: 30px;
+    margin-left: 400px;
+    text-align: center; 
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 150px;  
+}
+
+
+
+.botao{
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    margin-left: 350px;
+    background-color: bisque;
+    font-size: 30px;
+    font-style:oblique;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+
+
+.msg{
+    font-size: 60px;
+    color: #393939;
+    margin-top: 80px;
+    margin-left: 400px;
+    font-style: oblique;
+}
